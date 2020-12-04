@@ -1,0 +1,5 @@
+C:/Users/Bryan/source/repos/StarchyEngine/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/Users/Bryan/source/repos/StarchyEngine/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
+C:/Users/Bryan/source/repos/StarchyEngine/out/build/x64-Debug (default)/StarchyEngine/CMakeFiles/StarchyEngine.dir
+C:/Users/Bryan/source/repos/StarchyEngine/out/build/x64-Debug (default)/StarchyEngine/CMakeFiles/edit_cache.dir
+C:/Users/Bryan/source/repos/StarchyEngine/out/build/x64-Debug (default)/StarchyEngine/CMakeFiles/rebuild_cache.dir
